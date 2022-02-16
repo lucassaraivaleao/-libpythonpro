@@ -105,7 +105,7 @@ PACKAGE = "libpythonpro"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Lucas Leao"
-AUTHOR_EMAIL = "renzo@python.pro.br"
+AUTHOR_EMAIL = "lucas.saraivaleao@yahoo.com"
 URL = "https://github.com/lucassaraivaleao/libpythonpro"
 VERSION = __import__(PACKAGE).__version__
 
