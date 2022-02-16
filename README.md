@@ -2,6 +2,7 @@
 Módulo para exemplificar construção de projetos Python no curso PyTools
 Nesse curso e ensinado como contribuir com projetos de codigo aberto
 link para o curso [Python Pro](https://www.python.pro.br)
+
 [![Build Status](https://app.travis-ci.com/lucassaraivaleao/libpythonpro.svg?branch=main)](https://app.travis-ci.com/lucassaraivaleao/libpythonpro)
 
 Suportada versao Python3
