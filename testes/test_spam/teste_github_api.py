@@ -9,6 +9,7 @@ def test_buscar_avatar(avatar_url):
     url = github_api.buscar_avatar('renzo')
     assert avatar_url == url
 
+
 @pytest.fixture
 def avatar_url():
     resp_mock = Mock()
