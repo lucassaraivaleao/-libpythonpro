@@ -3,7 +3,7 @@ python:
   - 3.6
   - 3.8
 install:
-  - pip install  codecov
+  - pip install -r requirements-dev.txt codecov
 script:
   - flake8
   - pytest libpythonpro --cov=libpythonpro
